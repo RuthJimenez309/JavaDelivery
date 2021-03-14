@@ -8,5 +8,9 @@ public class Producto {
         this.descripcion = descripcion;
         this.precio = precio;
     }
+    public void imprimir (){
+        System.out.println( String.valueOf(this.descripcion) +"/t/t/t"+this.precio);
+
+    }
 
 }

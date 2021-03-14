@@ -5,12 +5,15 @@ public class JavaDelivery {
 
     public JavaDelivery(Comercio comercio) {
         this.comercio = comercio;
+
+
     }
 
-    //método o función
-    public int getMarkets (String categoria){
-        //debera retornar todos los negocios que cumplan esta categoria.
-        return 0;
+    /*método*/
+
+    public void getMarkets (String categoria){
+        /* retornar todos los negocios que cumplan esta categoria.
+        return 0; */
     }
 
 
